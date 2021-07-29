@@ -1,0 +1,22 @@
+{
+  "Records": 
+  [
+    {
+      "kinesis": 
+        {
+          "kinesisSchemaVersion": "1.0", 
+          "partitionKey": "e42ebef0-9f15-4ccb-ab77-b29880ab204e", 
+          "sequenceNumber": "49620419077175582215827013768943865689505857150493130754", 
+          "data": "c29tZSBkYXRh", 
+          "approximateArrivalTimestamp": 1627263156.843
+        }, 
+      "eventSource": "aws:kinesis", 
+      "eventVersion": "1.0", 
+      "eventID": "shardId-000000000000:49620419077175582215827013768943865689505857150493130754",
+      "eventName": "aws:kinesis:record", 
+      "invokeIdentityArn": "arn:aws:iam::729940464641:role/service-role/siemens-lambda-events", 
+      "awsRegion": "us-east-2", 
+      "eventSourceARN": "arn:aws:kinesis:us-east-2:729940464641:stream/siemens-events"
+    }
+  ]
+}
