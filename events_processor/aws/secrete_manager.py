@@ -7,8 +7,8 @@ class SecretsManager():
 
     def load(self):
        # load these secretes from aws
-        self.client_id = "usppaldv-javareat-1.0.0"
-        self.client_secret = "09FHU70HCQhRxYf9DTTYG5HqiAqSuH30VAACwpbaL9b"
+        self.client_id = "usslcsop-etl-v1.0.1-88821532"
+        self.client_secret = "VeNMmFFuF4Nbhw1JDU5a4ivK3ClJXrIL4Spjc5HRqg7"
 
     def get_client_id(self):
         return self.client_id

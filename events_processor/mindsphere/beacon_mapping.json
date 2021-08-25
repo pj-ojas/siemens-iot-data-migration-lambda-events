@@ -1,0 +1,2840 @@
+{
+  "projectId": 78460,
+  "beacons": [
+    {
+      "3535600886442075865": {
+        "beaconId": "3535600886442075865",
+        "device_name": "CL6-06",
+        "propertySetName": "06",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "16315971557541536430": {
+        "beaconId": "16315971557541536430",
+        "device_name": "ML1-20",
+        "propertySetName": "20",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "14907093385847065641": {
+        "beaconId": "14907093385847065641",
+        "device_name": "CS1-14",
+        "propertySetName": "14",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "1266109963337380342": {
+        "beaconId": "1266109963337380342",
+        "device_name": "MU4-01",
+        "propertySetName": "01",
+        "assetName": "MU4",
+        "entityId": "19b90d15835043618d9857d4b8ea869b"
+      }
+    },
+    {
+      "13453074965539171795": {
+        "beaconId": "13453074965539171795",
+        "device_name": "MU3-02",
+        "propertySetName": "02",
+        "assetName": "MU3",
+        "entityId": "9e7937220f554b3888193b0eeba8341b"
+      }
+    },
+    {
+      "11057019685395029180": {
+        "beaconId": "11057019685395029180",
+        "device_name": "MU5-02",
+        "propertySetName": "02",
+        "assetName": "MU5",
+        "entityId": "c770a8e3230a47f596bae5f08955cb36"
+      }
+    },
+    {
+      "172488017465947302": {
+        "beaconId": "172488017465947302",
+        "device_name": "MU5-01",
+        "propertySetName": "01",
+        "assetName": "MU5",
+        "entityId": "c770a8e3230a47f596bae5f08955cb36"
+      }
+    },
+    {
+      "3817611474121811896": {
+        "beaconId": "3817611474121811896",
+        "device_name": "MU4-04",
+        "propertySetName": "04",
+        "assetName": "MU4",
+        "entityId": "19b90d15835043618d9857d4b8ea869b"
+      }
+    },
+    {
+      "8923933495340567964": {
+        "beaconId": "8923933495340567964",
+        "device_name": "MU4-03",
+        "propertySetName": "03",
+        "assetName": "MU4",
+        "entityId": "19b90d15835043618d9857d4b8ea869b"
+      }
+    },
+    {
+      "2092099671899685035": {
+        "beaconId": "2092099671899685035",
+        "device_name": "MU4-02",
+        "propertySetName": "02",
+        "assetName": "MU4",
+        "entityId": "19b90d15835043618d9857d4b8ea869b"
+      }
+    },
+    {
+      "3080956595012830881": {
+        "beaconId": "3080956595012830881",
+        "device_name": "MU3-03",
+        "propertySetName": "03",
+        "assetName": "MU3",
+        "entityId": "9e7937220f554b3888193b0eeba8341b"
+      }
+    },
+    {
+      "13494839811188600646": {
+        "beaconId": "13494839811188600646",
+        "device_name": "MU3-01",
+        "propertySetName": "01",
+        "assetName": "MU3",
+        "entityId": "9e7937220f554b3888193b0eeba8341b"
+      }
+    },
+    {
+      "13600429562073811668": {
+        "beaconId": "13600429562073811668",
+        "device_name": "MU2-01",
+        "propertySetName": "01",
+        "assetName": "MU2",
+        "entityId": "7022cb8287ff4424a2bdfa48536b136d"
+      }
+    },
+    {
+      "15320791260659136038": {
+        "beaconId": "15320791260659136038",
+        "device_name": "MU1-01",
+        "propertySetName": "01",
+        "assetName": "MU1",
+        "entityId": "a84d9a7d9f414c7d97517723608556b0"
+      }
+    },
+    {
+      "7187652360669597203": {
+        "beaconId": "7187652360669597203",
+        "device_name": "T1-05",
+        "propertySetName": "05",
+        "assetName": "T1",
+        "entityId": "83203f6d836341e0b3a0658b0144c3af"
+      }
+    },
+    {
+      "527801672769209997": {
+        "beaconId": "527801672769209997",
+        "device_name": "OS1-12",
+        "propertySetName": "12",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "8348669845415920811": {
+        "beaconId": "8348669845415920811",
+        "device_name": "SS5-09",
+        "propertySetName": "09",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "984205434660806446": {
+        "beaconId": "984205434660806446",
+        "device_name": "T6-31",
+        "propertySetName": "31",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "6094080502695352922": {
+        "beaconId": "6094080502695352922",
+        "device_name": "T6-30",
+        "propertySetName": "30",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "8000634413509393581": {
+        "beaconId": "8000634413509393581",
+        "device_name": "T6-29",
+        "propertySetName": "29",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "13728026750195509076": {
+        "beaconId": "13728026750195509076",
+        "device_name": "T6-22",
+        "propertySetName": "22",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "5048304067817195477": {
+        "beaconId": "5048304067817195477",
+        "device_name": "T6-23",
+        "propertySetName": "23",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "9112153192229187305": {
+        "beaconId": "9112153192229187305",
+        "device_name": "T6-24",
+        "propertySetName": "24",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "6784110955565532525": {
+        "beaconId": "6784110955565532525",
+        "device_name": "T5-19",
+        "propertySetName": "19",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "1487378173816108046": {
+        "beaconId": "1487378173816108046",
+        "device_name": "T5-16",
+        "propertySetName": "16",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "9788717856730284036": {
+        "beaconId": "9788717856730284036",
+        "device_name": "T5-18",
+        "propertySetName": "18",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "13970977840444819843": {
+        "beaconId": "13970977840444819843",
+        "device_name": "T5-15",
+        "propertySetName": "15",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "3231340579559432157": {
+        "beaconId": "3231340579559432157",
+        "device_name": "T4-17",
+        "propertySetName": "17",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "1557272662255581183": {
+        "beaconId": "1557272662255581183",
+        "device_name": "T6-26",
+        "propertySetName": "26",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "2464513139462440380": {
+        "beaconId": "2464513139462440380",
+        "device_name": "T6-28",
+        "propertySetName": "28",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "11669889178767550745": {
+        "beaconId": "11669889178767550745",
+        "device_name": "T6-20",
+        "propertySetName": "20",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "3747056038951291467": {
+        "beaconId": "3747056038951291467",
+        "device_name": "T6-25",
+        "propertySetName": "25",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "8394936562226713266": {
+        "beaconId": "8394936562226713266",
+        "device_name": "T6-27",
+        "propertySetName": "27",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "14495757903868479277": {
+        "beaconId": "14495757903868479277",
+        "device_name": "T5-14",
+        "propertySetName": "14",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "1937722438408575963": {
+        "beaconId": "1937722438408575963",
+        "device_name": "T6-21",
+        "propertySetName": "21",
+        "assetName": "T6",
+        "entityId": "1d614d896d8c4844930e189976b60121"
+      }
+    },
+    {
+      "4638017200427801806": {
+        "beaconId": "4638017200427801806",
+        "device_name": "T5-17",
+        "propertySetName": "17",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "9557520700481319006": {
+        "beaconId": "9557520700481319006",
+        "device_name": "T4-12",
+        "propertySetName": "12",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "10476486418126856166": {
+        "beaconId": "10476486418126856166",
+        "device_name": "T4-09",
+        "propertySetName": "09",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "10067015937034779225": {
+        "beaconId": "10067015937034779225",
+        "device_name": "T4-14",
+        "propertySetName": "14",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "14282537829571610146": {
+        "beaconId": "14282537829571610146",
+        "device_name": "T5-11B",
+        "propertySetName": "11B",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "2933617725011085801": {
+        "beaconId": "2933617725011085801",
+        "device_name": "T5-11",
+        "propertySetName": "11",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "7355214135578407240": {
+        "beaconId": "7355214135578407240",
+        "device_name": "T5-13",
+        "propertySetName": "13",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "6654751342483070240": {
+        "beaconId": "6654751342483070240",
+        "device_name": "T5-10",
+        "propertySetName": "10",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "13609212302473136546": {
+        "beaconId": "13609212302473136546",
+        "device_name": "T5-09",
+        "propertySetName": "09",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "561345810156998111": {
+        "beaconId": "561345810156998111",
+        "device_name": "T5-11A",
+        "propertySetName": "11A",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "2389370472132111829": {
+        "beaconId": "2389370472132111829",
+        "device_name": "T5-11C",
+        "propertySetName": "11C",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "17930537129320254683": {
+        "beaconId": "17930537129320254683",
+        "device_name": "T5-11D",
+        "propertySetName": "11D",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "13185256480429041112": {
+        "beaconId": "13185256480429041112",
+        "device_name": "T4-13",
+        "propertySetName": "13",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "6027396889169981941": {
+        "beaconId": "6027396889169981941",
+        "device_name": "T4-16",
+        "propertySetName": "16",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "6091059539228814620": {
+        "beaconId": "6091059539228814620",
+        "device_name": "T2-12",
+        "propertySetName": "12",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "15859633957771946413": {
+        "beaconId": "15859633957771946413",
+        "device_name": "T5-12",
+        "propertySetName": "12",
+        "assetName": "T5",
+        "entityId": "62d9cb07b5ef47ffb89a1209ba611597"
+      }
+    },
+    {
+      "9640571812295121274": {
+        "beaconId": "9640571812295121274",
+        "device_name": "T4-15",
+        "propertySetName": "15",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "8419457412244876467": {
+        "beaconId": "8419457412244876467",
+        "device_name": "T4-07",
+        "propertySetName": "07",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "5425539174972149541": {
+        "beaconId": "5425539174972149541",
+        "device_name": "T2-06",
+        "propertySetName": "06",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "5312527956671394935": {
+        "beaconId": "5312527956671394935",
+        "device_name": "T2-10",
+        "propertySetName": "10",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "13179786703717407308": {
+        "beaconId": "13179786703717407308",
+        "device_name": "T1-08",
+        "propertySetName": "08",
+        "assetName": "T1",
+        "entityId": "83203f6d836341e0b3a0658b0144c3af"
+      }
+    },
+    {
+      "421459128404278428": {
+        "beaconId": "421459128404278428",
+        "device_name": "SS6-04",
+        "propertySetName": "04",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "12105520990363203288": {
+        "beaconId": "12105520990363203288",
+        "device_name": "T2-13",
+        "propertySetName": "13",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "5303277254207368863": {
+        "beaconId": "5303277254207368863",
+        "device_name": "T4-11",
+        "propertySetName": "11",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "5289627413630824280": {
+        "beaconId": "5289627413630824280",
+        "device_name": "T2-11",
+        "propertySetName": "11",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "11862907133990064428": {
+        "beaconId": "11862907133990064428",
+        "device_name": "T2-08",
+        "propertySetName": "08",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "4190307286877027558": {
+        "beaconId": "4190307286877027558",
+        "device_name": "T4-08",
+        "propertySetName": "08",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "11325114103653171164": {
+        "beaconId": "11325114103653171164",
+        "device_name": "T2-09",
+        "propertySetName": "09",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "2147671602059078967": {
+        "beaconId": "2147671602059078967",
+        "device_name": "T4-10",
+        "propertySetName": "10",
+        "assetName": "T4",
+        "entityId": "a5ea880f926e4e4a948d996edc2cfe5d"
+      }
+    },
+    {
+      "13943989925274494878": {
+        "beaconId": "13943989925274494878",
+        "device_name": "T1-09",
+        "propertySetName": "09",
+        "assetName": "T1",
+        "entityId": "83203f6d836341e0b3a0658b0144c3af"
+      }
+    },
+    {
+      "18048542289238049646": {
+        "beaconId": "18048542289238049646",
+        "device_name": "T2-07",
+        "propertySetName": "07",
+        "assetName": "T2",
+        "entityId": "2ca16f02c1324a68958026d52494e41f"
+      }
+    },
+    {
+      "6286477881875134823": {
+        "beaconId": "6286477881875134823",
+        "device_name": "SS6-10",
+        "propertySetName": "10",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "5601090683066375878": {
+        "beaconId": "5601090683066375878",
+        "device_name": "SS6-09",
+        "propertySetName": "09",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "7872602355442879416": {
+        "beaconId": "7872602355442879416",
+        "device_name": "SS6-08",
+        "propertySetName": "08",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "2810601648220785146": {
+        "beaconId": "2810601648220785146",
+        "device_name": "SS6-02",
+        "propertySetName": "02",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "9828816226435207122": {
+        "beaconId": "9828816226435207122",
+        "device_name": "SS6-07",
+        "propertySetName": "07",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "14465713944403473511": {
+        "beaconId": "14465713944403473511",
+        "device_name": "SS6-06",
+        "propertySetName": "06",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "6693409954609109820": {
+        "beaconId": "6693409954609109820",
+        "device_name": "T1-07",
+        "propertySetName": "07",
+        "assetName": "T1",
+        "entityId": "83203f6d836341e0b3a0658b0144c3af"
+      }
+    },
+    {
+      "9311075792857903086": {
+        "beaconId": "9311075792857903086",
+        "device_name": "SS6-05",
+        "propertySetName": "05",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "4066041711862992255": {
+        "beaconId": "4066041711862992255",
+        "device_name": "T1-06",
+        "propertySetName": "06",
+        "assetName": "T1",
+        "entityId": "83203f6d836341e0b3a0658b0144c3af"
+      }
+    },
+    {
+      "7494042247156838889": {
+        "beaconId": "7494042247156838889",
+        "device_name": "SS6-03",
+        "propertySetName": "03",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "10362837000861449122": {
+        "beaconId": "10362837000861449122",
+        "device_name": "SS5-03",
+        "propertySetName": "03",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "13271670783453619800": {
+        "beaconId": "13271670783453619800",
+        "device_name": "SS5-05",
+        "propertySetName": "05",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "1240466184977435652": {
+        "beaconId": "1240466184977435652",
+        "device_name": "SS6-01",
+        "propertySetName": "01",
+        "assetName": "SS6",
+        "entityId": "fc26ca59688c456489f91fe175cb57aa"
+      }
+    },
+    {
+      "5637755151007175642": {
+        "beaconId": "5637755151007175642",
+        "device_name": "SS5-06",
+        "propertySetName": "06",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "103891567661061623": {
+        "beaconId": "103891567661061623",
+        "device_name": "SS5-08",
+        "propertySetName": "08",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "1360404909979323": {
+        "beaconId": "1360404909979323",
+        "device_name": "SS5-04",
+        "propertySetName": "04",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "1962926717726193249": {
+        "beaconId": "1962926717726193249",
+        "device_name": "SS5-01",
+        "propertySetName": "01",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "5746269299192388464": {
+        "beaconId": "5746269299192388464",
+        "device_name": "SS5-07",
+        "propertySetName": "07",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "17310543675288071821": {
+        "beaconId": "17310543675288071821",
+        "device_name": "SS5-02",
+        "propertySetName": "02",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "1761083415381544338": {
+        "beaconId": "1761083415381544338",
+        "device_name": "SS5-10",
+        "propertySetName": "10",
+        "assetName": "SS5",
+        "entityId": "2681807e588843d182316707d236dd34"
+      }
+    },
+    {
+      "3873947792749736415": {
+        "beaconId": "3873947792749736415",
+        "device_name": "SS3-09",
+        "propertySetName": "09",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "2013650449145635511": {
+        "beaconId": "2013650449145635511",
+        "device_name": "SS3-08",
+        "propertySetName": "08",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "12142018709701367831": {
+        "beaconId": "12142018709701367831",
+        "device_name": "SS3-04",
+        "propertySetName": "04",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "17213293562774623954": {
+        "beaconId": "17213293562774623954",
+        "device_name": "SS3-03",
+        "propertySetName": "03",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "14806573483981400000": {
+        "beaconId": "14806573483981400000",
+        "device_name": "SS3-01",
+        "propertySetName": "01",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "11188591013590071165": {
+        "beaconId": "11188591013590071165",
+        "device_name": "SS3-05",
+        "propertySetName": "05",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "12970332532053300009": {
+        "beaconId": "12970332532053300009",
+        "device_name": "SS3-07",
+        "propertySetName": "07",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "7948766517692976419": {
+        "beaconId": "7948766517692976419",
+        "device_name": "SS3-06",
+        "propertySetName": "06",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "11460060419000161082": {
+        "beaconId": "11460060419000161082",
+        "device_name": "SS3-10",
+        "propertySetName": "10",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "5676386748276303173": {
+        "beaconId": "5676386748276303173",
+        "device_name": "SS3-02",
+        "propertySetName": "02",
+        "assetName": "SS3",
+        "entityId": "6d17126b8dea438899149cc56110da17"
+      }
+    },
+    {
+      "7592963787903690701": {
+        "beaconId": "7592963787903690701",
+        "device_name": "SL3-01",
+        "propertySetName": "01",
+        "assetName": "SL3",
+        "entityId": "9ee283e841ab4149a3db8f67d35ebc43"
+      }
+    },
+    {
+      "3363458622876177488": {
+        "beaconId": "3363458622876177488",
+        "device_name": "SL1-03",
+        "propertySetName": "03",
+        "assetName": "SL1",
+        "entityId": "0977f660f7404fe2803bd9c5f2b09812"
+      }
+    },
+    {
+      "9995051782626951088": {
+        "beaconId": "9995051782626951088",
+        "device_name": "SL4-01",
+        "propertySetName": "01",
+        "assetName": "SL4",
+        "entityId": "c46638a91b1744deb01f259bd3a94d23"
+      }
+    },
+    {
+      "13443371982361898511": {
+        "beaconId": "13443371982361898511",
+        "device_name": "SL2-05",
+        "propertySetName": "05",
+        "assetName": "SL2",
+        "entityId": "06de7cf10de840ec95f3efd68cb70308"
+      }
+    },
+    {
+      "17073775280096680399": {
+        "beaconId": "17073775280096680399",
+        "device_name": "SL3-02",
+        "propertySetName": "02",
+        "assetName": "SL3",
+        "entityId": "9ee283e841ab4149a3db8f67d35ebc43"
+      }
+    },
+    {
+      "5508080733555982158": {
+        "beaconId": "5508080733555982158",
+        "device_name": "SL4-02",
+        "propertySetName": "02",
+        "assetName": "SL4",
+        "entityId": "c46638a91b1744deb01f259bd3a94d23"
+      }
+    },
+    {
+      "3112966123000793982": {
+        "beaconId": "3112966123000793982",
+        "device_name": "SL2-02",
+        "propertySetName": "02",
+        "assetName": "SL2",
+        "entityId": "06de7cf10de840ec95f3efd68cb70308"
+      }
+    },
+    {
+      "1428281536542969826": {
+        "beaconId": "1428281536542969826",
+        "device_name": "SL3-03",
+        "propertySetName": "03",
+        "assetName": "SL3",
+        "entityId": "9ee283e841ab4149a3db8f67d35ebc43"
+      }
+    },
+    {
+      "11895622500242949410": {
+        "beaconId": "11895622500242949410",
+        "device_name": "SL4-04",
+        "propertySetName": "04",
+        "assetName": "SL4",
+        "entityId": "c46638a91b1744deb01f259bd3a94d23"
+      }
+    },
+    {
+      "12160896147289682060": {
+        "beaconId": "12160896147289682060",
+        "device_name": "SL2-01",
+        "propertySetName": "01",
+        "assetName": "SL2",
+        "entityId": "06de7cf10de840ec95f3efd68cb70308"
+      }
+    },
+    {
+      "13030523346762051326": {
+        "beaconId": "13030523346762051326",
+        "device_name": "SL2-03",
+        "propertySetName": "03",
+        "assetName": "SL2",
+        "entityId": "06de7cf10de840ec95f3efd68cb70308"
+      }
+    },
+    {
+      "5702418585194730396": {
+        "beaconId": "5702418585194730396",
+        "device_name": "SL2-04",
+        "propertySetName": "04",
+        "assetName": "SL2",
+        "entityId": "06de7cf10de840ec95f3efd68cb70308"
+      }
+    },
+    {
+      "17282501420216133913": {
+        "beaconId": "17282501420216133913",
+        "device_name": "SL4-03",
+        "propertySetName": "03",
+        "assetName": "SL4",
+        "entityId": "c46638a91b1744deb01f259bd3a94d23"
+      }
+    },
+    {
+      "12356213248422303397": {
+        "beaconId": "12356213248422303397",
+        "device_name": "SL3-04",
+        "propertySetName": "04",
+        "assetName": "SL3",
+        "entityId": "9ee283e841ab4149a3db8f67d35ebc43"
+      }
+    },
+    {
+      "6478620905476880141": {
+        "beaconId": "6478620905476880141",
+        "device_name": "SL1-04",
+        "propertySetName": "04",
+        "assetName": "SL1",
+        "entityId": "0977f660f7404fe2803bd9c5f2b09812"
+      }
+    },
+    {
+      "1444261409986423900": {
+        "beaconId": "1444261409986423900",
+        "device_name": "SS2-03",
+        "propertySetName": "03",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "18081856338319690392": {
+        "beaconId": "18081856338319690392",
+        "device_name": "SS2-02",
+        "propertySetName": "02",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "17143522962516798510": {
+        "beaconId": "17143522962516798510",
+        "device_name": "SS2-09",
+        "propertySetName": "09",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "14022181867236790265": {
+        "beaconId": "14022181867236790265",
+        "device_name": "SL5-02",
+        "propertySetName": "02",
+        "assetName": "SL5",
+        "entityId": "29e25aec416847c8a3ad87ebaafa327d"
+      }
+    },
+    {
+      "9887264229802875494": {
+        "beaconId": "9887264229802875494",
+        "device_name": "SS2-06",
+        "propertySetName": "06",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "8777381850182367362": {
+        "beaconId": "8777381850182367362",
+        "device_name": "SL5-03",
+        "propertySetName": "03",
+        "assetName": "SL5",
+        "entityId": "29e25aec416847c8a3ad87ebaafa327d"
+      }
+    },
+    {
+      "10316382527999858425": {
+        "beaconId": "10316382527999858425",
+        "device_name": "SS2-10",
+        "propertySetName": "10",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "12286150656114121275": {
+        "beaconId": "12286150656114121275",
+        "device_name": "SS2-01",
+        "propertySetName": "01",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "4761609075270160180": {
+        "beaconId": "4761609075270160180",
+        "device_name": "SL5-01",
+        "propertySetName": "01",
+        "assetName": "SL5",
+        "entityId": "29e25aec416847c8a3ad87ebaafa327d"
+      }
+    },
+    {
+      "17841893156908438357": {
+        "beaconId": "17841893156908438357",
+        "device_name": "SL5-04",
+        "propertySetName": "04",
+        "assetName": "SL5",
+        "entityId": "29e25aec416847c8a3ad87ebaafa327d"
+      }
+    },
+    {
+      "4206304770862147709": {
+        "beaconId": "4206304770862147709",
+        "device_name": "SS2-05",
+        "propertySetName": "05",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "5748857532535426687": {
+        "beaconId": "5748857532535426687",
+        "device_name": "SS2-07",
+        "propertySetName": "07",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "4483654498148751719": {
+        "beaconId": "4483654498148751719",
+        "device_name": "SS2-08",
+        "propertySetName": "08",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "17865706594966166003": {
+        "beaconId": "17865706594966166003",
+        "device_name": "SL5-05",
+        "propertySetName": "05",
+        "assetName": "SL5",
+        "entityId": "29e25aec416847c8a3ad87ebaafa327d"
+      }
+    },
+    {
+      "1708131305554250412": {
+        "beaconId": "1708131305554250412",
+        "device_name": "SS2-04",
+        "propertySetName": "04",
+        "assetName": "SS2",
+        "entityId": "631addf4f5d540d0b760f44b17210aaf"
+      }
+    },
+    {
+      "13466527620185288405": {
+        "beaconId": "13466527620185288405",
+        "device_name": "SL1-01",
+        "propertySetName": "01",
+        "assetName": "SL1",
+        "entityId": "0977f660f7404fe2803bd9c5f2b09812"
+      }
+    },
+    {
+      "2227908976246034873": {
+        "beaconId": "2227908976246034873",
+        "device_name": "SL1-02",
+        "propertySetName": "02",
+        "assetName": "SL1",
+        "entityId": "0977f660f7404fe2803bd9c5f2b09812"
+      }
+    },
+    {
+      "7103625750193561375": {
+        "beaconId": "7103625750193561375",
+        "device_name": "OS1-14",
+        "propertySetName": "14",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "11087585809560189739": {
+        "beaconId": "11087585809560189739",
+        "device_name": "OS1-19",
+        "propertySetName": "19",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "9759592556958841574": {
+        "beaconId": "9759592556958841574",
+        "device_name": "OS1-15",
+        "propertySetName": "15",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "10399122007126672854": {
+        "beaconId": "10399122007126672854",
+        "device_name": "OS1-22",
+        "propertySetName": "22",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "8964349292798366787": {
+        "beaconId": "8964349292798366787",
+        "device_name": "OS2-01",
+        "propertySetName": "01",
+        "assetName": "OS2",
+        "entityId": "017333127ea14018a797bb00351cf1df"
+      }
+    },
+    {
+      "1021088483029977986": {
+        "beaconId": "1021088483029977986",
+        "device_name": "OS1-20",
+        "propertySetName": "20",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "17687267331765764795": {
+        "beaconId": "17687267331765764795",
+        "device_name": "OS1-18",
+        "propertySetName": "18",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "10012226266596173611": {
+        "beaconId": "10012226266596173611",
+        "device_name": "OS1-17",
+        "propertySetName": "17",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "5271699170585465450": {
+        "beaconId": "5271699170585465450",
+        "device_name": "OS1-16",
+        "propertySetName": "16",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "6886902009548446268": {
+        "beaconId": "6886902009548446268",
+        "device_name": "OS1-21",
+        "propertySetName": "21",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "10222591603776132772": {
+        "beaconId": "10222591603776132772",
+        "device_name": "OG1-10",
+        "propertySetName": "10",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "12526563247761774126": {
+        "beaconId": "12526563247761774126",
+        "device_name": "OS1-06",
+        "propertySetName": "06",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "132115041647997962": {
+        "beaconId": "132115041647997962",
+        "device_name": "OS1-08",
+        "propertySetName": "08",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "1635603686894409263": {
+        "beaconId": "1635603686894409263",
+        "device_name": "OG2-02",
+        "propertySetName": "02",
+        "assetName": "OG2",
+        "entityId": "d256b2612b3049b6aff37a274d575562"
+      }
+    },
+    {
+      "14379238093110530950": {
+        "beaconId": "14379238093110530950",
+        "device_name": "OG2-04",
+        "propertySetName": "04",
+        "assetName": "OG2",
+        "entityId": "d256b2612b3049b6aff37a274d575562"
+      }
+    },
+    {
+      "1546159523653650480": {
+        "beaconId": "1546159523653650480",
+        "device_name": "OS1-13",
+        "propertySetName": "13",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "224069058510827334": {
+        "beaconId": "224069058510827334",
+        "device_name": "OS1-09",
+        "propertySetName": "09",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "8296443270875908489": {
+        "beaconId": "8296443270875908489",
+        "device_name": "OG2-05",
+        "propertySetName": "05",
+        "assetName": "OG2",
+        "entityId": "d256b2612b3049b6aff37a274d575562"
+      }
+    },
+    {
+      "6548653418544457280": {
+        "beaconId": "6548653418544457280",
+        "device_name": "OS1-11",
+        "propertySetName": "11",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "8858072053943789135": {
+        "beaconId": "8858072053943789135",
+        "device_name": "OG1-11",
+        "propertySetName": "11",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "8205342353301359011": {
+        "beaconId": "8205342353301359011",
+        "device_name": "OG2-03",
+        "propertySetName": "03",
+        "assetName": "OG2",
+        "entityId": "d256b2612b3049b6aff37a274d575562"
+      }
+    },
+    {
+      "17980274506309973094": {
+        "beaconId": "17980274506309973094",
+        "device_name": "OS1-10",
+        "propertySetName": "10",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "13642168994553159895": {
+        "beaconId": "13642168994553159895",
+        "device_name": "OG2-01",
+        "propertySetName": "01",
+        "assetName": "OG2",
+        "entityId": "d256b2612b3049b6aff37a274d575562"
+      }
+    },
+    {
+      "2988652066675709396": {
+        "beaconId": "2988652066675709396",
+        "device_name": "OS1-07",
+        "propertySetName": "07",
+        "assetName": "OS1",
+        "entityId": "a05ec1e70f224ed6a3c53a7168138825"
+      }
+    },
+    {
+      "7213760012903394690": {
+        "beaconId": "7213760012903394690",
+        "device_name": "OG1-03",
+        "propertySetName": "03",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "11180584033504161928": {
+        "beaconId": "11180584033504161928",
+        "device_name": "OG1-05",
+        "propertySetName": "05",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "16907801904881885839": {
+        "beaconId": "16907801904881885839",
+        "device_name": "ML1-17",
+        "propertySetName": "17",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "5693681629273758180": {
+        "beaconId": "5693681629273758180",
+        "device_name": "ML1-18",
+        "propertySetName": "18",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "1620461818933866170": {
+        "beaconId": "1620461818933866170",
+        "device_name": "OG1-01",
+        "propertySetName": "01",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "12359521945658175799": {
+        "beaconId": "12359521945658175799",
+        "device_name": "ML1-19",
+        "propertySetName": "19",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "11797046025758240880": {
+        "beaconId": "11797046025758240880",
+        "device_name": "OG1-08",
+        "propertySetName": "08",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "16429242817522269320": {
+        "beaconId": "16429242817522269320",
+        "device_name": "OG1-04",
+        "propertySetName": "04",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "11151589580690026877": {
+        "beaconId": "11151589580690026877",
+        "device_name": "OG1-02",
+        "propertySetName": "02",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "8044342854062090831": {
+        "beaconId": "8044342854062090831",
+        "device_name": "ML1-21",
+        "propertySetName": "21",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "16746778284353139952": {
+        "beaconId": "16746778284353139952",
+        "device_name": "OG1-07",
+        "propertySetName": "07",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "591030279145283723": {
+        "beaconId": "591030279145283723",
+        "device_name": "ML1-22",
+        "propertySetName": "22",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "17456370149330260385": {
+        "beaconId": "17456370149330260385",
+        "device_name": "OG1-06",
+        "propertySetName": "06",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "12142660038220120284": {
+        "beaconId": "12142660038220120284",
+        "device_name": "OG1-09",
+        "propertySetName": "09",
+        "assetName": "OG1",
+        "entityId": "5d6e3a00aaf84928a2c5101c1892e8e0"
+      }
+    },
+    {
+      "11441044263951892082": {
+        "beaconId": "11441044263951892082",
+        "device_name": "ML1-05",
+        "propertySetName": "05",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "17667120986109900388": {
+        "beaconId": "17667120986109900388",
+        "device_name": "ML1-04",
+        "propertySetName": "04",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "10842500573517595236": {
+        "beaconId": "10842500573517595236",
+        "device_name": "ML1-02",
+        "propertySetName": "02",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "10575942411283116671": {
+        "beaconId": "10575942411283116671",
+        "device_name": "ML1-10",
+        "propertySetName": "10",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "18123334216104403602": {
+        "beaconId": "18123334216104403602",
+        "device_name": "ML1-06",
+        "propertySetName": "06",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "16234123230722001463": {
+        "beaconId": "16234123230722001463",
+        "device_name": "ML1-15",
+        "propertySetName": "15",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "12737763376277329373": {
+        "beaconId": "12737763376277329373",
+        "device_name": "ML1-08",
+        "propertySetName": "08",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "4165192150975822679": {
+        "beaconId": "4165192150975822679",
+        "device_name": "ML1-09",
+        "propertySetName": "09",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "10255531714444938087": {
+        "beaconId": "10255531714444938087",
+        "device_name": "ML1-12",
+        "propertySetName": "12",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "5562191556732890151": {
+        "beaconId": "5562191556732890151",
+        "device_name": "ML1-07",
+        "propertySetName": "07",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "16903017600472387232": {
+        "beaconId": "16903017600472387232",
+        "device_name": "ML1-14",
+        "propertySetName": "14",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "7633709674674103475": {
+        "beaconId": "7633709674674103475",
+        "device_name": "ML1-03",
+        "propertySetName": "03",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "602452822349597990": {
+        "beaconId": "602452822349597990",
+        "device_name": "ML1-13",
+        "propertySetName": "13",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "6992292026893640697": {
+        "beaconId": "6992292026893640697",
+        "device_name": "ML1-16",
+        "propertySetName": "16",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "8420271809619576344": {
+        "beaconId": "8420271809619576344",
+        "device_name": "ML1-11",
+        "propertySetName": "11",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "14675794049006496834": {
+        "beaconId": "14675794049006496834",
+        "device_name": "CS2-12",
+        "propertySetName": "12",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "1225101039184540586": {
+        "beaconId": "1225101039184540586",
+        "device_name": "CS2-17",
+        "propertySetName": "17",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "15523771987546101716": {
+        "beaconId": "15523771987546101716",
+        "device_name": "CS2-24",
+        "propertySetName": "24",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "2500443551069463405": {
+        "beaconId": "2500443551069463405",
+        "device_name": "CS2-18",
+        "propertySetName": "18",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "4309622046961813145": {
+        "beaconId": "4309622046961813145",
+        "device_name": "CS2-16",
+        "propertySetName": "16",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "14926618721795953013": {
+        "beaconId": "14926618721795953013",
+        "device_name": "CS2-13",
+        "propertySetName": "13",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "11470331375438036333": {
+        "beaconId": "11470331375438036333",
+        "device_name": "CS2-15",
+        "propertySetName": "15",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "10522371623913844545": {
+        "beaconId": "10522371623913844545",
+        "device_name": "CS2-20",
+        "propertySetName": "20",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "2155869171849067660": {
+        "beaconId": "2155869171849067660",
+        "device_name": "CS2-21",
+        "propertySetName": "21",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "1479087995368247191": {
+        "beaconId": "1479087995368247191",
+        "device_name": "CS2-25",
+        "propertySetName": "25",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "16547536471286305710": {
+        "beaconId": "16547536471286305710",
+        "device_name": "ML1-01",
+        "propertySetName": "01",
+        "assetName": "ML1",
+        "entityId": "71a14718ccc943b1b40f7dd6ee886b97"
+      }
+    },
+    {
+      "13344579653159697030": {
+        "beaconId": "13344579653159697030",
+        "device_name": "CS2-14",
+        "propertySetName": "14",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "4950068854130963207": {
+        "beaconId": "4950068854130963207",
+        "device_name": "CS2-23",
+        "propertySetName": "23",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "11869994350215137810": {
+        "beaconId": "11869994350215137810",
+        "device_name": "CS2-22",
+        "propertySetName": "22",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "6562013469700834795": {
+        "beaconId": "6562013469700834795",
+        "device_name": "CS2-19",
+        "propertySetName": "19",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "15678674588319604064": {
+        "beaconId": "15678674588319604064",
+        "device_name": "CS1-13",
+        "propertySetName": "13",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "7871531923105320958": {
+        "beaconId": "7871531923105320958",
+        "device_name": "CS1-10",
+        "propertySetName": "10",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "10648435310401892544": {
+        "beaconId": "10648435310401892544",
+        "device_name": "CS1-15",
+        "propertySetName": "15",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "2824846503780954727": {
+        "beaconId": "2824846503780954727",
+        "device_name": "CS1-16",
+        "propertySetName": "16",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "9855485627788680584": {
+        "beaconId": "9855485627788680584",
+        "device_name": "CS2-09",
+        "propertySetName": "09",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "16845455732751355558": {
+        "beaconId": "16845455732751355558",
+        "device_name": "CS1-18",
+        "propertySetName": "18",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "841488764508071478": {
+        "beaconId": "841488764508071478",
+        "device_name": "CS1-11",
+        "propertySetName": "11",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "15488642637275813853": {
+        "beaconId": "15488642637275813853",
+        "device_name": "CS1-12",
+        "propertySetName": "12",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "11190203387667629566": {
+        "beaconId": "11190203387667629566",
+        "device_name": "CS2-10",
+        "propertySetName": "10",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "13177938234185590569": {
+        "beaconId": "13177938234185590569",
+        "device_name": "CS2-11",
+        "propertySetName": "11",
+        "assetName": "CS2",
+        "entityId": "a6432c78078f41e1978004917a288ba9"
+      }
+    },
+    {
+      "11299958027370315183": {
+        "beaconId": "11299958027370315183",
+        "device_name": "CL8-08",
+        "propertySetName": "08",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "2854431300592432944": {
+        "beaconId": "2854431300592432944",
+        "device_name": "CL8-09",
+        "propertySetName": "09",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "5879717501383225307": {
+        "beaconId": "5879717501383225307",
+        "device_name": "CS1-17",
+        "propertySetName": "17",
+        "assetName": "CS1",
+        "entityId": "f00b39aea273471181f17590ad0eb4ae"
+      }
+    },
+    {
+      "2319000385191375168": {
+        "beaconId": "2319000385191375168",
+        "device_name": "CL8-07",
+        "propertySetName": "07",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "18423958310727387519": {
+        "beaconId": "18423958310727387519",
+        "device_name": "CL7-04",
+        "propertySetName": "04",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "6428739434454554037": {
+        "beaconId": "6428739434454554037",
+        "device_name": "CL7-06",
+        "propertySetName": "06",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "5614218888547105645": {
+        "beaconId": "5614218888547105645",
+        "device_name": "CL7-07",
+        "propertySetName": "07",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "3317655753696568778": {
+        "beaconId": "3317655753696568778",
+        "device_name": "CL8-03",
+        "propertySetName": "03",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "8674069037810294693": {
+        "beaconId": "8674069037810294693",
+        "device_name": "CL6-23",
+        "propertySetName": "23",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "10056152406181681279": {
+        "beaconId": "10056152406181681279",
+        "device_name": "CL8-05",
+        "propertySetName": "05",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "18314405150485398909": {
+        "beaconId": "18314405150485398909",
+        "device_name": "CL8-02",
+        "propertySetName": "02",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "16212736968600021804": {
+        "beaconId": "16212736968600021804",
+        "device_name": "CL7-03",
+        "propertySetName": "03",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "9332290979447624061": {
+        "beaconId": "9332290979447624061",
+        "device_name": "CL7-08",
+        "propertySetName": "08",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "874147681965307457": {
+        "beaconId": "874147681965307457",
+        "device_name": "CL7-01",
+        "propertySetName": "01",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "7620215667694240643": {
+        "beaconId": "7620215667694240643",
+        "device_name": "CL8-01",
+        "propertySetName": "01",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "16341913328424759107": {
+        "beaconId": "16341913328424759107",
+        "device_name": "CL7-05",
+        "propertySetName": "05",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "15837867494408314472": {
+        "beaconId": "15837867494408314472",
+        "device_name": "CL7-02",
+        "propertySetName": "02",
+        "assetName": "CL7",
+        "entityId": "8a94c3f93b124781bb112367be56f2bc"
+      }
+    },
+    {
+      "13000158882594307054": {
+        "beaconId": "13000158882594307054",
+        "device_name": "CL8-04",
+        "propertySetName": "04",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "8365040859756200670": {
+        "beaconId": "8365040859756200670",
+        "device_name": "CL8-06",
+        "propertySetName": "06",
+        "assetName": "CL8",
+        "entityId": "f1807af396784333bdde770e0a79e24a"
+      }
+    },
+    {
+      "10342179323130169087": {
+        "beaconId": "10342179323130169087",
+        "device_name": "CL6-12",
+        "propertySetName": "12",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "8643947397360947935": {
+        "beaconId": "8643947397360947935",
+        "device_name": "CL6-17",
+        "propertySetName": "17",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "10468696266566182615": {
+        "beaconId": "10468696266566182615",
+        "device_name": "CL6-11",
+        "propertySetName": "11",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "14431526665385562566": {
+        "beaconId": "14431526665385562566",
+        "device_name": "CL6-10",
+        "propertySetName": "10",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "14962874193845653670": {
+        "beaconId": "14962874193845653670",
+        "device_name": "CL6-16",
+        "propertySetName": "16",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "4278434700921249354": {
+        "beaconId": "4278434700921249354",
+        "device_name": "CL6-13",
+        "propertySetName": "13",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "16873934841907998013": {
+        "beaconId": "16873934841907998013",
+        "device_name": "CL6-21",
+        "propertySetName": "21",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "7540570936190802691": {
+        "beaconId": "7540570936190802691",
+        "device_name": "CL6-18",
+        "propertySetName": "18",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "2082512651794461710": {
+        "beaconId": "2082512651794461710",
+        "device_name": "CL6-15",
+        "propertySetName": "15",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "5154646788580476217": {
+        "beaconId": "5154646788580476217",
+        "device_name": "CL6-08",
+        "propertySetName": "08",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "5706070790728361453": {
+        "beaconId": "5706070790728361453",
+        "device_name": "CL6-20",
+        "propertySetName": "20",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "4568402419602011940": {
+        "beaconId": "4568402419602011940",
+        "device_name": "CL6-09",
+        "propertySetName": "09",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "9832102042989834848": {
+        "beaconId": "9832102042989834848",
+        "device_name": "CL6-14",
+        "propertySetName": "14",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "17128211480842987279": {
+        "beaconId": "17128211480842987279",
+        "device_name": "CL6-22",
+        "propertySetName": "22",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "5705612125681381157": {
+        "beaconId": "5705612125681381157",
+        "device_name": "CL6-19",
+        "propertySetName": "19",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "9058658816909321499": {
+        "beaconId": "9058658816909321499",
+        "device_name": "CL5-01",
+        "propertySetName": "01",
+        "assetName": "CL5",
+        "entityId": "b7aceafbbb22430ca473964dca4d6e6f"
+      }
+    },
+    {
+      "3900062008146550184": {
+        "beaconId": "3900062008146550184",
+        "device_name": "CL3-14",
+        "propertySetName": "14",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "13459360442945166741": {
+        "beaconId": "13459360442945166741",
+        "device_name": "CL3-15",
+        "propertySetName": "15",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "3624877292963154187": {
+        "beaconId": "3624877292963154187",
+        "device_name": "CL6-07",
+        "propertySetName": "07",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "13106054552559041272": {
+        "beaconId": "13106054552559041272",
+        "device_name": "CL6-05",
+        "propertySetName": "05",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "4176031375127472445": {
+        "beaconId": "4176031375127472445",
+        "device_name": "CL3-12",
+        "propertySetName": "12",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "9386322604756282691": {
+        "beaconId": "9386322604756282691",
+        "device_name": "CL6-02",
+        "propertySetName": "02",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "6001180531883745644": {
+        "beaconId": "6001180531883745644",
+        "device_name": "CL5-04",
+        "propertySetName": "04",
+        "assetName": "CL5",
+        "entityId": "b7aceafbbb22430ca473964dca4d6e6f"
+      }
+    },
+    {
+      "362503652631467220": {
+        "beaconId": "362503652631467220",
+        "device_name": "CL5-02",
+        "propertySetName": "02",
+        "assetName": "CL5",
+        "entityId": "b7aceafbbb22430ca473964dca4d6e6f"
+      }
+    },
+    {
+      "6938550286264425529": {
+        "beaconId": "6938550286264425529",
+        "device_name": "CL6-04",
+        "propertySetName": "04",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "9206147332979298565": {
+        "beaconId": "9206147332979298565",
+        "device_name": "CL5-03",
+        "propertySetName": "03",
+        "assetName": "CL5",
+        "entityId": "b7aceafbbb22430ca473964dca4d6e6f"
+      }
+    },
+    {
+      "5786838680074016456": {
+        "beaconId": "5786838680074016456",
+        "device_name": "CL3-13",
+        "propertySetName": "13",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "5663785258861867165": {
+        "beaconId": "5663785258861867165",
+        "device_name": "CL6-03",
+        "propertySetName": "03",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "13941160850350546011": {
+        "beaconId": "13941160850350546011",
+        "device_name": "CL3-11",
+        "propertySetName": "11",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "8974508893453317539": {
+        "beaconId": "8974508893453317539",
+        "device_name": "CL6-01",
+        "propertySetName": "01",
+        "assetName": "CL6",
+        "entityId": "4122fd7602f2458880601b770b3c6b27"
+      }
+    },
+    {
+      "14799028131527726028": {
+        "beaconId": "14799028131527726028",
+        "device_name": "CL3-04",
+        "propertySetName": "04",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "5482832681382252637": {
+        "beaconId": "5482832681382252637",
+        "device_name": "CL3-03",
+        "propertySetName": "03",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "17015259341687656552": {
+        "beaconId": "17015259341687656552",
+        "device_name": "CL3-05",
+        "propertySetName": "05",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "18153689131254013841": {
+        "beaconId": "18153689131254013841",
+        "device_name": "CL3-02",
+        "propertySetName": "02",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "14860202906719285119": {
+        "beaconId": "14860202906719285119",
+        "device_name": "CL3-10",
+        "propertySetName": "10",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "3304063133996086537": {
+        "beaconId": "3304063133996086537",
+        "device_name": "CL2-03",
+        "propertySetName": "03",
+        "assetName": "CL2",
+        "entityId": "1eeb9376167b4252996b1606c26baf08"
+      }
+    },
+    {
+      "6252125973632987395": {
+        "beaconId": "6252125973632987395",
+        "device_name": "CL3-06",
+        "propertySetName": "06",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "13500502636459473239": {
+        "beaconId": "13500502636459473239",
+        "device_name": "AL6-34",
+        "propertySetName": "34",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "9495790367069873734": {
+        "beaconId": "9495790367069873734",
+        "device_name": "CL2-02",
+        "propertySetName": "02",
+        "assetName": "CL2",
+        "entityId": "1eeb9376167b4252996b1606c26baf08"
+      }
+    },
+    {
+      "5365812049242485969": {
+        "beaconId": "5365812049242485969",
+        "device_name": "CL3-09",
+        "propertySetName": "09",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "1612361216303119687": {
+        "beaconId": "1612361216303119687",
+        "device_name": "CL2-01",
+        "propertySetName": "01",
+        "assetName": "CL2",
+        "entityId": "1eeb9376167b4252996b1606c26baf08"
+      }
+    },
+    {
+      "10439037763772751278": {
+        "beaconId": "10439037763772751278",
+        "device_name": "CL3-07",
+        "propertySetName": "07",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "16276390216730595599": {
+        "beaconId": "16276390216730595599",
+        "device_name": "CL3-08",
+        "propertySetName": "08",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "15877295998239198926": {
+        "beaconId": "15877295998239198926",
+        "device_name": "CL3-01",
+        "propertySetName": "01",
+        "assetName": "CL3",
+        "entityId": "5a44dd5823e040f0a8fd16bcdce2189e"
+      }
+    },
+    {
+      "5573982797684134973": {
+        "beaconId": "5573982797684134973",
+        "device_name": "CL2-04",
+        "propertySetName": "04",
+        "assetName": "CL2",
+        "entityId": "1eeb9376167b4252996b1606c26baf08"
+      }
+    },
+    {
+      "16731588648636260981": {
+        "beaconId": "16731588648636260981",
+        "device_name": "AL6-27",
+        "propertySetName": "27",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "7964850773202149224": {
+        "beaconId": "7964850773202149224",
+        "device_name": "AL6-29",
+        "propertySetName": "29",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "3810528902749014256": {
+        "beaconId": "3810528902749014256",
+        "device_name": "AL6-31",
+        "propertySetName": "31",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "7945790095395209757": {
+        "beaconId": "7945790095395209757",
+        "device_name": "AL6-32",
+        "propertySetName": "32",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "5340981992900434540": {
+        "beaconId": "5340981992900434540",
+        "device_name": "AL6-23",
+        "propertySetName": "23",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "5774663415449911275": {
+        "beaconId": "5774663415449911275",
+        "device_name": "AL6-22",
+        "propertySetName": "22",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "6672831995324000521": {
+        "beaconId": "6672831995324000521",
+        "device_name": "AL6-26",
+        "propertySetName": "26",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "9722149597619477055": {
+        "beaconId": "9722149597619477055",
+        "device_name": "AL6-30",
+        "propertySetName": "30",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "18074033430834225884": {
+        "beaconId": "18074033430834225884",
+        "device_name": "AL6-28",
+        "propertySetName": "28",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "2331197246109939955": {
+        "beaconId": "2331197246109939955",
+        "device_name": "AL6-21",
+        "propertySetName": "21",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "15873436497216652253": {
+        "beaconId": "15873436497216652253",
+        "device_name": "AL6-24",
+        "propertySetName": "24",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "5196727944961992499": {
+        "beaconId": "5196727944961992499",
+        "device_name": "AL6-33",
+        "propertySetName": "33",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "4199206882719465935": {
+        "beaconId": "4199206882719465935",
+        "device_name": "AL6-19",
+        "propertySetName": "19",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "17435399479962226717": {
+        "beaconId": "17435399479962226717",
+        "device_name": "AL6-20",
+        "propertySetName": "20",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "5951198461323545979": {
+        "beaconId": "5951198461323545979",
+        "device_name": "AL6-25",
+        "propertySetName": "25",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "11910724076826706726": {
+        "beaconId": "11910724076826706726",
+        "device_name": "AL6-11",
+        "propertySetName": "11",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "1188854393385315049": {
+        "beaconId": "1188854393385315049",
+        "device_name": "AL6-18",
+        "propertySetName": "18",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "12879166956682601438": {
+        "beaconId": "12879166956682601438",
+        "device_name": "AL6-07",
+        "propertySetName": "07",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "18430236961151941433": {
+        "beaconId": "18430236961151941433",
+        "device_name": "AL6-12",
+        "propertySetName": "12",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "7355140760081001455": {
+        "beaconId": "7355140760081001455",
+        "device_name": "AL6-17",
+        "propertySetName": "17",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "6992467404493494187": {
+        "beaconId": "6992467404493494187",
+        "device_name": "AL6-04",
+        "propertySetName": "04",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "1383273621372431208": {
+        "beaconId": "1383273621372431208",
+        "device_name": "AL6-14",
+        "propertySetName": "14",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "4144366194883446498": {
+        "beaconId": "4144366194883446498",
+        "device_name": "AL6-10",
+        "propertySetName": "10",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "2287199712452016358": {
+        "beaconId": "2287199712452016358",
+        "device_name": "AL6-16",
+        "propertySetName": "16",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "2147913732450629561": {
+        "beaconId": "2147913732450629561",
+        "device_name": "AL6-06",
+        "propertySetName": "06",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "6491050411976864782": {
+        "beaconId": "6491050411976864782",
+        "device_name": "AL6-15",
+        "propertySetName": "15",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "3007092423381456727": {
+        "beaconId": "3007092423381456727",
+        "device_name": "AL6-05",
+        "propertySetName": "05",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "7773363643906995954": {
+        "beaconId": "7773363643906995954",
+        "device_name": "AL6-13",
+        "propertySetName": "13",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "11004203853363265117": {
+        "beaconId": "11004203853363265117",
+        "device_name": "AL6-08",
+        "propertySetName": "08",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "13232386926575112068": {
+        "beaconId": "13232386926575112068",
+        "device_name": "AL6-09",
+        "propertySetName": "09",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "12227020308117306476": {
+        "beaconId": "12227020308117306476",
+        "device_name": "AL3-03",
+        "propertySetName": "03",
+        "assetName": "AL3",
+        "entityId": "52e018b60a874e4b8b2a9c06b11534b5"
+      }
+    },
+    {
+      "15512816770782646223": {
+        "beaconId": "15512816770782646223",
+        "device_name": "AL2-04",
+        "propertySetName": "04",
+        "assetName": "AL2",
+        "entityId": "4f7cbd4a73b94ce681966798f3c0b9e3"
+      }
+    },
+    {
+      "14650374921084232934": {
+        "beaconId": "14650374921084232934",
+        "device_name": "AL5-04",
+        "propertySetName": "04",
+        "assetName": "AL5",
+        "entityId": "8f359b165eef4506b48d8f8fca975a28"
+      }
+    },
+    {
+      "14652579690246546874": {
+        "beaconId": "14652579690246546874",
+        "device_name": "AL6-01",
+        "propertySetName": "01",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "6842777547328701511": {
+        "beaconId": "6842777547328701511",
+        "device_name": "AL3-01",
+        "propertySetName": "01",
+        "assetName": "AL3",
+        "entityId": "52e018b60a874e4b8b2a9c06b11534b5"
+      }
+    },
+    {
+      "17029032354488685215": {
+        "beaconId": "17029032354488685215",
+        "device_name": "AL2-02",
+        "propertySetName": "02",
+        "assetName": "AL2",
+        "entityId": "4f7cbd4a73b94ce681966798f3c0b9e3"
+      }
+    },
+    {
+      "14581144699697735499": {
+        "beaconId": "14581144699697735499",
+        "device_name": "AL5-01",
+        "propertySetName": "01",
+        "assetName": "AL5",
+        "entityId": "8f359b165eef4506b48d8f8fca975a28"
+      }
+    },
+    {
+      "17687236420956416803": {
+        "beaconId": "17687236420956416803",
+        "device_name": "AL6-03",
+        "propertySetName": "03",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "13442769334668422025": {
+        "beaconId": "13442769334668422025",
+        "device_name": "AL5-03",
+        "propertySetName": "03",
+        "assetName": "AL5",
+        "entityId": "8f359b165eef4506b48d8f8fca975a28"
+      }
+    },
+    {
+      "13023517754152580708": {
+        "beaconId": "13023517754152580708",
+        "device_name": "AL3-04",
+        "propertySetName": "04",
+        "assetName": "AL3",
+        "entityId": "52e018b60a874e4b8b2a9c06b11534b5"
+      }
+    },
+    {
+      "14475524665359626325": {
+        "beaconId": "14475524665359626325",
+        "device_name": "AL3-02",
+        "propertySetName": "02",
+        "assetName": "AL3",
+        "entityId": "52e018b60a874e4b8b2a9c06b11534b5"
+      }
+    },
+    {
+      "17679538546117714263": {
+        "beaconId": "17679538546117714263",
+        "device_name": "AL2-01",
+        "propertySetName": "01",
+        "assetName": "AL2",
+        "entityId": "4f7cbd4a73b94ce681966798f3c0b9e3"
+      }
+    },
+    {
+      "12945088712612056704": {
+        "beaconId": "12945088712612056704",
+        "device_name": "AL2-03",
+        "propertySetName": "03",
+        "assetName": "AL2",
+        "entityId": "4f7cbd4a73b94ce681966798f3c0b9e3"
+      }
+    },
+    {
+      "17451190650424520417": {
+        "beaconId": "17451190650424520417",
+        "device_name": "AL6-02",
+        "propertySetName": "02",
+        "assetName": "AL6",
+        "entityId": "e70d21843a2f47049317b9e5ee4fdbc8"
+      }
+    },
+    {
+      "10240452219099743785": {
+        "beaconId": "10240452219099743785",
+        "device_name": "AL5-02",
+        "propertySetName": "02",
+        "assetName": "AL5",
+        "entityId": "8f359b165eef4506b48d8f8fca975a28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "kinesis": {
+        "kinesisSchemaVersion": "1.0",
+        "partitionKey": "p:78460_plcy:204242_d:591030279145283723",
+        "sequenceNumber": "49620507415244274558508493967867279167644470950932512770",
+        "data": "eyJiZWFjb25OYW1lIjoiTUwxLTIyIiwiYmx1ZmlJZCI6IjAiLCJldmVudFV1aWQiOiJiMmUyNWZjZC03YjE1LTQ5YzYtN2RjOS0yYzRlYTM3MWVjYzYiLCJtZXRyaWNUeXBlIjoiVEVNUEVSQVRVUkUiLCJuYW1lc3BhY2UiOiJCRUFDT04iLCJuZXdTdGF0ZSI6IlZJT0xBVElORyIsIm9sZFN0YXRlIjoiT0siLCJwb2xpY3lJZCI6MjA0MjQyLCJwb2xpY3lOYW1lIjoiMzQiLCJwcm9qZWN0SWQiOjc4NDYwLCJ0aW1lc3RhbXAiOjE2Mjk2MDc2Mzk2NTksInRpbWVzdGFtcENsZWFyZWQiOjE2Mjk2MDc2Mzk2NTksInVuaXF1ZURldmljZUlkIjoiNTkxMDMwMjc5MTQ1MjgzNzIzIiwidmFsdWUiOiIzNC4wOCBsZWF2ZXMgdGhlIHJhbmdlIG9mIFswLjAwLCAzNC4wMF0ifQ==",
+        "approximateArrivalTimestamp": 1629607640.119
+      },
+      "eventSource": "aws:kinesis",
+      "eventVersion": "1.0",
+      "eventID": "shardId-000000000000:49620507415244274558508493967867279167644470950932512770",
+      "eventName": "aws:kinesis:record",
+      "invokeIdentityArn": "arn:aws:iam::729940464641:role/service-role/siemens-lambda-events",
+      "awsRegion": "us-east-2",
+      "eventSourceARN": "arn:aws:kinesis:us-east-2:729940464641:stream/siemens-events"
+    }
+  ]
+}

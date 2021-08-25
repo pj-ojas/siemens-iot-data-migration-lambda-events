@@ -32,7 +32,7 @@ def lambda_handler(event, context):
         result = stream_processor.process(event)
     except Exception as e:
         # Send some context about this error to Lambda Logs
-        print(e)
+        print("Exception: app.py: lambda_handler", e)
         raise e
     if result == True:
         return {
@@ -42,6 +42,7 @@ def lambda_handler(event, context):
             }),
         }
     else:
+        print("failed")
         return {
             "statusCode": 403,
             "body": json.dumps({"message": "something wrong in lamda"})
