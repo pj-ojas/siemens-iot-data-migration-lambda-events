@@ -1,0 +1,20 @@
+{
+  "Records": [
+    {
+      "kinesis": {
+        "kinesisSchemaVersion": "1.0",
+        "partitionKey": "p:78460_plcy:203034_d:1225101039184540586",
+        "sequenceNumber": "49621349606633222260844187588616614969409403164983033858",
+        "data": "eyJiZWFjb25OYW1lIjoiQ1MyLTE3IiwiYmx1ZmlJZCI6IjAiLCJldmVudFV1aWQiOiI2ZjkwNDg5My1hMWZjLTQ5ZjYtNWZjNS1jOTNkMzdlMDE4MWYiLCJtZXRyaWNUeXBlIjoiVklCUkFUSU9OX1RIUkVTSE9MRCIsIm5hbWVzcGFjZSI6IkJFQUNPTiIsIm5ld1N0YXRlIjoiVklPTEFUSU5HIiwib2xkU3RhdGUiOiJPSyIsInBvbGljeUlkIjoyMDMwMzQsInBvbGljeU5hbWUiOiIwLjI4IiwicHJvamVjdElkIjo3ODQ2MCwidGltZXN0YW1wIjoxNjI5OTM1NTk1MjUyLCJ0aW1lc3RhbXBDbGVhcmVkIjoxNjI5OTM1NTk1MjUyLCJ1bmlxdWVEZXZpY2VJZCI6IjEyMjUxMDEwMzkxODQ1NDA1ODYiLCJ2YWx1ZSI6InY6MC4yOTgwODYsYTpYLG06VkVMT0NJVFlfUk1TLHU6aW4vcyx0OjAuMjgwMDAwIn0=",
+        "approximateArrivalTimestamp": 1629935595.512
+      },
+      "eventSource": "aws:kinesis",
+      "eventVersion": "1.0",
+      "eventID": "shardId-000000000000:49621349606633222260844187588616614969409403164983033858",
+      "eventName": "aws:kinesis:record",
+      "invokeIdentityArn": "arn:aws:iam::183876174461:role/mindsphere-events-MindSphereEventsFunctionRole-5966EIWT5URF",
+      "awsRegion": "us-east-2",
+      "eventSourceARN": "arn:aws:kinesis:us-east-2:183876174461:stream/siemens-events"
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 class SecretsManager():
     def __init__(self):
-        print("SecretsManager")
         self.client_id = "invalid id"
         self.client_secret = "invalid secrete"
         self.load()

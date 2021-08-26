@@ -10,7 +10,7 @@ import requests
 class MindSphereEventConnector:
     def __init__(self):
         self._token = ""
-        self.typeId = "fd150373-c61d-4edb-9a1a-727052e36b49"
+        self.typeId = "c3dc304c-b25e-4db1-9a1a-48676016fbf2"
         self._events_url = "https://gateway.eu1.mindsphere.io/api/eventmanagement/v3/events"
 
         self._id_key_loaded = False
@@ -35,12 +35,12 @@ class MindSphereEventConnector:
 
     def write(self, entityId, eventUuid, value, newState, oldState, metricType, policyName, beaconName, timestamp, timestampCleared):
         response = None
-        print(
-            f"mindsphere_event_connector.py: {entityId} {eventUuid} {value} {newState} {oldState} {metricType} {policyName} {beaconName}")
         try:
             if self._headers == None:
                 print("Error: Failed to get headers")
                 return False
+            print(
+                f"mindsphere_event_connector.py: {timestamp} {entityId} {eventUuid} {value} {newState} {oldState} {metricType} {policyName} {beaconName}")
             body_params = {
                 "typeId": self.typeId,
                 "timestamp": timestamp,
@@ -51,7 +51,7 @@ class MindSphereEventConnector:
                 "oldState": oldState,
                 "timestampCleared": timestampCleared,
                 "metricType": metricType,
-                "policyName": int(policyName),
+                "policyName": policyName,
                 "beaconName": beaconName
             }
 
@@ -64,9 +64,9 @@ class MindSphereEventConnector:
                 data=payload
             )
             response.raise_for_status()
-            if response.text:
-                json_data = json.loads(response.text)
-                print("response.text: ", json_data)
+            # if response.text:
+            #     json_data = json.loads(response.text)
+            #     print("response.text: ", json_data)
 
             return True
 

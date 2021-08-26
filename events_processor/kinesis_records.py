@@ -59,11 +59,11 @@ class KinesisRecords:
                     continue
                 beacon_id = record["uniqueDeviceId"]
 
-                if not "beaconName" in record:
-                    print(
-                        "Error: kinesis_records: _process_records: beaconName is not found. skipping record...")
-                    continue
-                beaconName = record["beaconName"]
+                # if not "beaconName" in record:
+                #     print(
+                #         "Error: kinesis_records: _process_records: beaconName is not found. skipping record...")
+                #     continue
+                # beaconName = record["beaconName"]
 
                 # find the beacon_id in mapping data
                 if not beacon_id in self._beacon_mapping:
@@ -72,10 +72,10 @@ class KinesisRecords:
                     continue
                 beacon_data = self._beacon_mapping[beacon_id]
 
-                if beaconName != beacon_data["device_name"]:
-                    print(
-                        f"Error: kinesis_records: _process_records: beaconName: {beaconName} is not configured in mapping. skipping record...")
-                    continue
+                # if beaconName != beacon_data["device_name"]:
+                #     print(
+                #         f"Error: kinesis_records: _process_records: beaconName: {beaconName} is not configured in mapping. skipping record...")
+                #     continue
 
                 entityId = beacon_data["entityId"]
 
@@ -110,3 +110,20 @@ class KinesisRecords:
 #   36.00
 # ]"
 # }
+
+
+# {"beaconName": "CS2-17",
+# "blufiId": "0",
+# "eventUuid": "6f904893-a1fc-49f6-5fc5-c93d37e0181f",
+# "metricType": "VIBRATION_THRESHOLD",
+# "namespace": "BEACON",
+# "newState": "VIOLATING",
+# "oldState": "OK",
+
+#  "policyId": 203034,
+# "policyName": "0.28",
+# "projectId": 78460,
+# "timestamp": 1629935595252,
+# "timestampCleared": 1629935595252,
+# "uniqueDeviceId": "1225101039184540586",
+# "value": "v:0.298086,a:X,m:VELOCITY_RMS,u:in/s,t:0.280000"}
