@@ -80,7 +80,7 @@ class KinesisRecords:
                 entityId = beacon_data["entityId"]
 
                 result = mindsphere_event_connector.write(entityId=entityId, eventUuid=record["eventUuid"], value=record["value"], newState=record["newState"],
-                                                          oldState=record["oldState"], metricType=record["metricType"], policyName=record["policyName"], beaconName=record["beaconName"], timestamp=record["timestamp"], timestampCleared=record["timestampCleared"])
+                                                          oldState=record["oldState"], metricType=record["metricType"], policyName=record["policyName"], beaconName=record["beaconName"], timestamp=record["timestamp"], timestampCleared=record["timestampCleared"], beaconId=record["uniqueDeviceId"])
                 if result == False:
                     return result
 

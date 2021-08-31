@@ -33,7 +33,7 @@ class MindSphereEventConnector:
         time = time / 1000  # convert to seconds
         return datetime.utcfromtimestamp(time).strftime('%Y-%m-%dT%H:%M:%SZ')
 
-    def write(self, entityId, eventUuid, value, newState, oldState, metricType, policyName, beaconName, timestamp, timestampCleared):
+    def write(self, entityId, eventUuid, value, newState, oldState, metricType, policyName, beaconName, timestamp, timestampCleared, beaconId):
         response = None
         try:
             if self._headers == None:
@@ -52,7 +52,8 @@ class MindSphereEventConnector:
                 "timestampCleared": timestampCleared,
                 "metricType": metricType,
                 "policyName": policyName,
-                "beaconName": beaconName
+                "beaconName": beaconName,
+                "beaconId": beaconId
             }
 
             payload = json.dumps(body_params)
