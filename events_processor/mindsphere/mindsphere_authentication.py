@@ -5,10 +5,13 @@ from aws.secrete_manager import SecretsManager
 
 
 class MindSphereAuthentication:
+    def __init__(self, secretManager):
+        self.secretsManager = secretManager
+
     def getToken(self):
-        secretsManager = SecretsManager()
-        key_store_client_id = secretsManager.get_client_id()
-        key_store_client_secret = secretsManager.get_client_secret()
+
+        key_store_client_id = self.secretsManager.get_client_id()
+        key_store_client_secret = self.secretsManager.get_client_secret()
 
         authorization = base64.b64encode(
             (key_store_client_id + ":" + key_store_client_secret).encode())

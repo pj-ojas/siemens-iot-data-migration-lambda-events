@@ -52,6 +52,7 @@ class KinesisRecords:
         try:
             mindsphere_event_connector = MindSphereEventConnector()
             mindsphere_event_connector.getHeaders()
+            events_counter = 0
             for record in self._data:
                 if not "uniqueDeviceId" in record:
                     print(
@@ -79,11 +80,18 @@ class KinesisRecords:
 
                 entityId = beacon_data["entityId"]
 
-                result = mindsphere_event_connector.write(entityId=entityId, eventUuid=record["eventUuid"], value=record["value"], newState=record["newState"],
-                                                          oldState=record["oldState"], metricType=record["metricType"], policyName=record["policyName"], beaconName=record["beaconName"], timestamp=record["timestamp"], timestampCleared=record["timestampCleared"], beaconId=record["uniqueDeviceId"])
+                result = mindsphere_event_connector.addEvent(entityId=entityId, eventUuid=record["eventUuid"], value=record["value"], newState=record["newState"],
+                                                             oldState=record["oldState"], metricType=record["metricType"], policyName=record["policyName"], beaconName=record["beaconName"], timestamp=record["timestamp"], timestampCleared=record["timestampCleared"], beaconId=record["uniqueDeviceId"])
                 if result == False:
                     return result
+                events_counter += 1
 
+                if events_counter == 50:
+                    result = mindsphere_event_connector.write_events()
+            # End of For loop
+
+            # write any remaining events unwritte to mindsphere
+            result = mindsphere_event_connector.write_events()
             return result
         except Exception as e:
             print("Exception: kinesis_record: _process_record: ", e)
@@ -119,6 +127,7 @@ class KinesisRecords:
 # "namespace": "BEACON",
 # "newState": "VIOLATING",
 # "oldState": "OK",
+# variable: xvRms
 
 #  "policyId": 203034,
 # "policyName": "0.28",

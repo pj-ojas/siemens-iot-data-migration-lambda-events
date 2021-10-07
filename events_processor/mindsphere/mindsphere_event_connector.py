@@ -10,15 +10,21 @@ import requests
 class MindSphereEventConnector:
     def __init__(self):
         self._token = ""
-        self.typeId = "c3dc304c-b25e-4db1-9a1a-48676016fbf2"
+        self.typeId = ""
         self._events_url = "https://gateway.eu1.mindsphere.io/api/eventmanagement/v3/events"
+        self._create_events_jobs_url = "https://gateway.eu1.mindsphere.io/api/eventmanagement/v3/createEventsJobs"
 
         self._id_key_loaded = False
         self._headers = None
+        self.secretManager = SecretsManager()
+        self._events = []
 
     def _loadToken(self):
         try:
-            self._token = MindSphereAuthentication().getToken()
+            mindsphereAuthentication = MindSphereAuthentication(
+                self.secretManager)
+            self._token = mindsphereAuthentication.getToken()
+            self.typeId = self.secretManager.get_event_typeid()
         except Exception as err:
             print(
                 "mindshpere_connector: _loadToken: Exception in getting token: ", err)
@@ -65,12 +71,70 @@ class MindSphereEventConnector:
                 data=payload
             )
             response.raise_for_status()
-            # if response.text:
-            #     json_data = json.loads(response.text)
-            #     print("response.text: ", json_data)
+            if response.text:
+                json_data = json.loads(response.text)
+                print("response.text: ", json_data)
 
             return True
 
+        except Exception as err:
+            print(
+                f"Exception mindshpere_connector: write_to_mindsphere:  {err} response {response}")
+        return False
+
+    def addEvent(self, entityId, eventUuid, value, newState, oldState, metricType, policyName, beaconName, timestamp, timestampCleared, beaconId):
+        event = {
+            "typeId": self.typeId,
+            "timestamp": timestamp,
+            "entityId": entityId,
+            "eventUuid": eventUuid,
+            "value": value,
+            "newState": newState,
+            "oldState": oldState,
+            "timestampCleared": timestampCleared,
+            "metricType": metricType,
+            "policyName": policyName,
+            "beaconName": beaconName,
+            "beaconId": beaconId
+        }
+        self._events.append(event)
+        return True
+
+    def write_events(self):
+        response = None
+        try:
+            if self._headers == None:
+                print("Error: Failed to get headers")
+                return False
+            # write event records not more than 50 at once
+            # if more than 50 records are in the self._events, return false for now
+            # TODO batch and send 50 at a time
+            if len(self._events) == 0:
+                print("Error: write_events: No records available to write")
+                return False
+            if len(self._events) > 50:
+                print("Error: write_events: More than 50 records")
+                return False
+            print("write_events: records count: ", len(self._events))
+            payload = {
+                "events": self._events
+            }
+            payload = json.dumps(payload)
+            response = requests.request(
+                method='POST',
+                url=self._create_events_jobs_url,
+                params=None,
+                headers=self._headers,
+                data=payload
+            )
+            response.raise_for_status()
+            if response.text:
+                json_data = json.loads(response.text)
+                print("mindshpere_connector: write_events: response.text: ", json_data)
+
+            # Flush records
+            self._events = []
+            return True
         except Exception as err:
             print(
                 f"Exception mindshpere_connector: write_to_mindsphere:  {err} response {response}")

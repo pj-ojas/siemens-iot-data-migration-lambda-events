@@ -3,18 +3,66 @@
     {
       "kinesis": {
         "kinesisSchemaVersion": "1.0",
-        "partitionKey": "p:78460_plcy:204242_d:591030279145283723",
-        "sequenceNumber": "49620507415244274558508493967867279167644470950932512770",
-        "data": "eyJiZWFjb25OYW1lIjoiTUwxLTIyIiwiYmx1ZmlJZCI6IjAiLCJldmVudFV1aWQiOiJiMmUyNWZjZC03YjE1LTQ5YzYtN2RjOS0yYzRlYTM3MWVjYzYiLCJtZXRyaWNUeXBlIjoiVEVNUEVSQVRVUkUiLCJuYW1lc3BhY2UiOiJCRUFDT04iLCJuZXdTdGF0ZSI6IlZJT0xBVElORyIsIm9sZFN0YXRlIjoiT0siLCJwb2xpY3lJZCI6MjA0MjQyLCJwb2xpY3lOYW1lIjoiMzQiLCJwcm9qZWN0SWQiOjc4NDYwLCJ0aW1lc3RhbXAiOjE2Mjk2MDc2Mzk2NTksInRpbWVzdGFtcENsZWFyZWQiOjE2Mjk2MDc2Mzk2NTksInVuaXF1ZURldmljZUlkIjoiNTkxMDMwMjc5MTQ1MjgzNzIzIiwidmFsdWUiOiIzNC4wOCBsZWF2ZXMgdGhlIHJhbmdlIG9mIFswLjAwLCAzNC4wMF0ifQ==",
-        "approximateArrivalTimestamp": 1629607640.119
+        "partitionKey": "p: 78460_plcy: 204242_d: 7355214135578407240",
+        "sequenceNumber": "49621349606633222260845069694711616348567279746125135874",
+        "data": "eyJiZWFjb25OYW1lIjoiVDUtMTMiLCJibHVmaUlkIjoiMCIsImV2ZW50VXVpZCI6ImM2NjZmYjAwLTE0ODItNDY5Ni00NzFjLTdkYzMwNjBkNmNhYyIsIm1ldHJpY1R5cGUiOiJURU1QRVJBVFVSRSIsIm5hbWVzcGFjZSI6IkJFQUNPTiIsIm5ld1N0YXRlIjoiVklPTEFUSU5HIiwib2xkU3RhdGUiOiJPSyIsInBvbGljeUlkIjoyMDQyNDIsInBvbGljeU5hbWUiOiIzNCIsInByb2plY3RJZCI6Nzg0NjAsInRpbWVzdGFtcCI6MTYzMDU1Nzc0MDM2MCwidGltZXN0YW1wQ2xlYXJlZCI6MTYzMDU1Nzc0MDM2MCwidW5pcXVlRGV2aWNlSWQiOiI3MzU1MjE0MTM1NTc4NDA3MjQwIiwidmFsdWUiOiIzNS4wMCBsZWF2ZXMgdGhlIHJhbmdlIG9mIFswLjAwLCAzNC4wMF0ifQ==",
+        "approximateArrivalTimestamp": 1630557741.235
       },
       "eventSource": "aws:kinesis",
       "eventVersion": "1.0",
-      "eventID": "shardId-000000000000:49620507415244274558508493967867279167644470950932512770",
+      "eventID": "shardId-000000000000: 49621349606633222260845069694711616348567279746125135874",
       "eventName": "aws:kinesis:record",
-      "invokeIdentityArn": "arn:aws:iam::729940464641:role/service-role/siemens-lambda-events",
+      "invokeIdentityArn": "arn:aws:iam: : 183876174461:role/mindsphere-events-MindSphereEventsFunctionRole-5966EIWT5URF",
       "awsRegion": "us-east-2",
-      "eventSourceARN": "arn:aws:kinesis:us-east-2:729940464641:stream/siemens-events"
+      "eventSourceARN": "arn:aws:kinesis:us-east-2: 183876174461:stream/siemens-events"
+    },
+    {
+      "kinesis": {
+        "kinesisSchemaVersion": "1.0",
+        "partitionKey": "p: 78460_plcy: 203036_d: 10439037763772751278",
+        "sequenceNumber": "49621349606633222260845069694746675197336103992191614978",
+        "data": "eyJiZWFjb25OYW1lIjoiQ0wzLTA3IiwiYmx1ZmlJZCI6IjAiLCJldmVudFV1aWQiOiI5MTM1NmExZi1iNmY0LTQwNWUtNDI3Zi1jZjRhYzJiZmIzYTQiLCJtZXRyaWNUeXBlIjoiVEVNUEVSQVRVUkUiLCJuYW1lc3BhY2UiOiJCRUFDT04iLCJuZXdTdGF0ZSI6IlZJT0xBVElORyIsIm9sZFN0YXRlIjoiT0siLCJwb2xpY3lJZCI6MjAzMDM2LCJwb2xpY3lOYW1lIjoiNDAiLCJwcm9qZWN0SWQiOjc4NDYwLCJ0aW1lc3RhbXAiOjE2MzA1NTc3NDAzNTgsInRpbWVzdGFtcENsZWFyZWQiOjE2MzA1NTc3NDAzNTgsInVuaXF1ZURldmljZUlkIjoiMTA0MzkwMzc3NjM3NzI3NTEyNzgiLCJ2YWx1ZSI6IjQwLjEzIGxlYXZlcyB0aGUgcmFuZ2Ugb2YgWzAuMDAsIDQwLjAwXSJ9",
+        "approximateArrivalTimestamp": 1630557741.255
+      },
+      "eventSource": "aws:kinesis",
+      "eventVersion": "1.0",
+      "eventID": "shardId-000000000000: 49621349606633222260845069694746675197336103992191614978",
+      "eventName": "aws:kinesis:record",
+      "invokeIdentityArn": "arn:aws:iam: : 183876174461:role/mindsphere-events-MindSphereEventsFunctionRole-5966EIWT5URF",
+      "awsRegion": "us-east-2",
+      "eventSourceARN": "arn:aws:kinesis:us-east-2: 183876174461:stream/siemens-events"
+    },
+    {
+      "kinesis": {
+        "kinesisSchemaVersion": "1.0",
+        "partitionKey": "p: 78460_plcy: 203000_d: 17667120986109900388",
+        "sequenceNumber": "49621349606633222260845069694766018010449938058986913794",
+        "data": "eyJiZWFjb25OYW1lIjoiTUwxLTA0IiwiYmx1ZmlJZCI6IjAiLCJldmVudFV1aWQiOiI3MmZlMmRhOS02OWYwLTRmYWUtNjRlNy0xODI2YmFlMTY1NDUiLCJtZXRyaWNUeXBlIjoiVEVNUEVSQVRVUkUiLCJuYW1lc3BhY2UiOiJCRUFDT04iLCJuZXdTdGF0ZSI6Ik9LIiwib2xkU3RhdGUiOiJWSU9MQVRJTkciLCJwb2xpY3lJZCI6MjAzMDAwLCJwb2xpY3lOYW1lIjoiMzYiLCJwcm9qZWN0SWQiOjc4NDYwLCJ0aW1lc3RhbXAiOjE2MzA1NTc3NDAzNTksInRpbWVzdGFtcENsZWFyZWQiOjE2MzA1NTc3NDAzNTksInVuaXF1ZURldmljZUlkIjoiMTc2NjcxMjA5ODYxMDk5MDAzODgiLCJ2YWx1ZSI6IjM2LjAwIGVudGVycyB0aGUgcmFuZ2Ugb2YgWzAuMDAsIDM2LjAwXSJ9",
+        "approximateArrivalTimestamp": 1630557741.275
+      },
+      "eventSource": "aws:kinesis",
+      "eventVersion": "1.0",
+      "eventID": "shardId-000000000000: 49621349606633222260845069694766018010449938058986913794",
+      "eventName": "aws:kinesis:record",
+      "invokeIdentityArn": "arn:aws:iam: : 183876174461:role/mindsphere-events-MindSphereEventsFunctionRole-5966EIWT5URF",
+      "awsRegion": "us-east-2",
+      "eventSourceARN": "arn:aws:kinesis:us-east-2: 183876174461:stream/siemens-events"
+    },
+    {
+      "kinesis": {
+        "kinesisSchemaVersion": "1.0",
+        "partitionKey": "p: 78460_plcy: 203000_d: 6091059539228814620",
+        "sequenceNumber": "49621349606633222260845069694828882153069898776071634946",
+        "data": "eyJiZWFjb25OYW1lIjoiVDItMTIiLCJibHVmaUlkIjoiMCIsImV2ZW50VXVpZCI6IjcyZWNhZDUyLWNjZDItNGY5NS02MDg2LWNiNzJiZGExOTg5NiIsIm1ldHJpY1R5cGUiOiJURU1QRVJBVFVSRSIsIm5hbWVzcGFjZSI6IkJFQUNPTiIsIm5ld1N0YXRlIjoiVklPTEFUSU5HIiwib2xkU3RhdGUiOiJPSyIsInBvbGljeUlkIjoyMDMwMDAsInBvbGljeU5hbWUiOiIzNiIsInByb2plY3RJZCI6Nzg0NjAsInRpbWVzdGFtcCI6MTYzMDU1Nzc0MDM1OSwidGltZXN0YW1wQ2xlYXJlZCI6MTYzMDU1Nzc0MDM1OSwidW5pcXVlRGV2aWNlSWQiOiI2MDkxMDU5NTM5MjI4ODE0NjIwIiwidmFsdWUiOiIzNi4wOCBsZWF2ZXMgdGhlIHJhbmdlIG9mIFswLjAwLCAzNi4wMF0ifQ==",
+        "approximateArrivalTimestamp": 1630557741.346
+      },
+      "eventSource": "aws:kinesis",
+      "eventVersion": "1.0",
+      "eventID": "shardId-000000000000: 49621349606633222260845069694828882153069898776071634946",
+      "eventName": "aws:kinesis:record",
+      "invokeIdentityArn": "arn:aws:iam: : 183876174461:role/mindsphere-events-MindSphereEventsFunctionRole-5966EIWT5URF",
+      "awsRegion": "us-east-2",
+      "eventSourceARN": "arn:aws:kinesis:us-east-2: 183876174461:stream/siemens-events"
     }
   ]
 }

@@ -28,6 +28,7 @@ def lambda_handler(event, context):
     """
     result = False
     try:
+        print(event)
         stream_processor = StreamProcessor()
         result = stream_processor.process(event)
     except Exception as e:
